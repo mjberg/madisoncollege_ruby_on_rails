@@ -1,5 +1,28 @@
 # Ruby on Rails Development
 
+# Course Calendar
+
+Revision A 08/27/2017
+
+| **Week** | **Thursday** | **Required Reading / Topics** | **Labs DUE Thursday by end of class** |
+| --- | ---   | ---                                       | --- |
+| 1   |  1/25 | Introduction                             | Lab 1 |
+| 2   |  2/1 | Rails Bridge (More intro)                | Lab 2 |
+| 3   |  2/8 | Chapter 1 and Chapter 2 (More intro)     | Lab 3, Course Project Idea |
+| 4   |  2/15 | Chapter 4 (Ruby)                         | Lab 4 |
+| 5   |  2/22 | Chapter 3 and Chapter 5 (Bootstrap/UI)   | Lab 5 |
+| 6   |  3/1 | Chapter 6                                | Lab 6  (Project wireframes/Database) |
+| 7   |  3/8 | Chapter 7                                | Lab 7 |
+| 8   |  3/15 | Open lab (Project work time)             |      |
+| 9   |  3/22 | Exam 1                                   | Project check-in 1 (Due 11:55pm)     |
+| 10  |  3/29 | Chapter 8                                | Lab 8 |
+| 11  |  4/5 | Chapter 9 and Chapter 10                 | Lab 9 |
+| 12  |  4/12 | Chapter 11 and Chapter 12                | Lab 10 |
+|     |  4/19 | Thanksgiving - No class                  | Project check-in 2 |
+| 13  |  4/26 | Chapter 13 and Chapter 14 (adding gems/ajax)         | Lab 11 |
+| 14  |  5/1 | Open lab (Final Project)                 |      |
+																!!PARTY!!
+
 Catalog #10152157-1001
 
 ## General Information
